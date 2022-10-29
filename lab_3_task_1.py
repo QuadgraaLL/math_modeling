@@ -1,0 +1,10 @@
+gravity_const = 6/67 * 10  ** -11
+speed_of_light = 3 * 10 ** 8
+density_water = 1000
+constant_plank = 6.63 * 10 ** -34
+euler_number = 2.718
+Boltzmann_constant = 1.38 * 10 ** -23
+acceleration_of_gravity = 9.8
+electronic_charge = 1.6 * 10 ** -19
+atomic_mass_unit = 1.66 * 10 ** -27
+specific_charge_of_electron = 1.76 * 10 ** 11
